@@ -12,6 +12,8 @@
 
 👯 Open to collaboration on exciting data science projects.
 
+📚 Check out my Github Repos for a glimpse of my work
+
 📝 I love sharing my insights and experiences on Github.
 
 📫 Feel free to reach out to me at **tandelharsh188@gmail.com** for any inquiries or collaborations.
